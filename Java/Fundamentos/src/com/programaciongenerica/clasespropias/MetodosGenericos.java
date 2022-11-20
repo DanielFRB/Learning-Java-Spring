@@ -10,6 +10,7 @@ public class MetodosGenericos {
         Integer[] numeros = {12, 34, 10, 20, 45, 4, 2, 79, 90, 11};
         System.out.println(MisMatrices.getMenor(nombres));
         System.out.println(MisMatrices.getMayor(numeros));
+        System.out.println(MisMatrices.getElementos(nombres));
     }
 }
 
@@ -26,6 +27,7 @@ class MisMatrices {
         }
         return elemMenor;
     }
+    
     public static <T extends Comparable> T getMayor(T[] a) {
         if (a == null || a.length == 0) {
             return null;
@@ -37,5 +39,9 @@ class MisMatrices {
             }
         }
         return elemMayor;
+    }
+    
+    public static <T> String getElementos(T[] a) {
+        return "El array tiene: " + a.length + " elementos";
     }
 }
