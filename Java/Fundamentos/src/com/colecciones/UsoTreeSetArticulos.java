@@ -8,6 +8,7 @@ import java.util.*;
 
 public class UsoTreeSetArticulos {
     public static void main(String[] args) {
+        // Utiliza el metodo compareTo interno debido a que la clase String implementa Compable
         TreeSet<String> personas = new TreeSet<>();
         personas.add("Daniel");
         personas.add("Yaneth");
@@ -18,6 +19,7 @@ public class UsoTreeSetArticulos {
         for (String p : personas) {
             System.out.println(p);
         }
+        System.out.println("--------");
         
         Articulo primero = new Articulo(1, "Primer Articulo");
         Articulo segundo = new Articulo(20, "Segundo Articulo");
@@ -31,8 +33,10 @@ public class UsoTreeSetArticulos {
         for (Articulo a : listaArticulos) {
             System.out.println(a.getDescripcion());
         }
+        System.out.println("--------");
         
-        TreeSet<Articulo> listaArticulos2 = new TreeSet<>( new Comparator<Articulo>() {
+        // Usando clases anonimas internas
+        TreeSet<Articulo> listaArticulos2 = new TreeSet<>(new Comparator<Articulo>() {
             @Override
             public int compare(Articulo a1, Articulo a2) {
                 return a1.getDescripcion().compareTo(a2.getDescripcion());
@@ -43,6 +47,17 @@ public class UsoTreeSetArticulos {
         listaArticulos2.add(tercero);
         
         for (Articulo a : listaArticulos2) {
+            System.out.println(a.getDescripcion());
+        }
+        System.out.println("--------");
+        
+        // Usando expresiones lambdas
+        TreeSet<Articulo> listaArticulos3 = new TreeSet<>((a1, a2) -> a1.getDescripcion().compareTo(a2.getDescripcion()));
+        listaArticulos3.add(primero);
+        listaArticulos3.add(segundo);
+        listaArticulos3.add(tercero);
+        
+        for (Articulo a : listaArticulos3) {
             System.out.println(a.getDescripcion());
         }
     }
