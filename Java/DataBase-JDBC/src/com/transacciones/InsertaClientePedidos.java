@@ -27,6 +27,12 @@ public class InsertaClientePedidos {
                 ex.printStackTrace();
             }
             e.printStackTrace();
+        } finally {
+            try {
+                conexionDB3.close();
+            } catch (SQLException ex) {
+                ex.printStackTrace();
+            }
         }
     }
 }
