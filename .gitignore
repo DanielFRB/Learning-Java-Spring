@@ -29,3 +29,13 @@
 /Spring/Microservices/RestTemplate/DepartmentService/nbproject/private/
 /Spring/Microservices/RestTemplate/DepartmentService/mvnw
 /Spring/Microservices/RestTemplate/DepartmentService/target/
+
+/Spring/Microservices/RestTemplate/UserService/nbproject/
+/Spring/Microservices/RestTemplate/UserService/build/
+/Spring/Microservices/RestTemplate/UserService/test/
+/Spring/Microservices/RestTemplate/UserService/dist/
+/Spring/Microservices/RestTemplate/UserService/*.cmd
+/Spring/Microservices/RestTemplate/UserService/*.md
+/Spring/Microservices/RestTemplate/UserService/nbproject/private/
+/Spring/Microservices/RestTemplate/UserService/mvnw
+/Spring/Microservices/RestTemplate/UserService/target/
