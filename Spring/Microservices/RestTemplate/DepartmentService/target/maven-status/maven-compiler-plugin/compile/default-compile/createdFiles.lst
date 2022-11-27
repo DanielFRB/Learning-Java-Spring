@@ -1,6 +1,0 @@
-com\department\service\app\repository\DepartmentRepository.class
-com\department\service\app\service\impl\DepartmentServiceImpl.class
-com\department\service\app\service\DepartmentServiceInter.class
-com\department\service\app\controller\DepartmentController.class
-com\department\service\app\AppApplication.class
-com\department\service\app\model\Department.class
