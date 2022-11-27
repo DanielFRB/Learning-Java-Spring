@@ -19,3 +19,12 @@ Java/Java8/test/
 Java/Java8/*.xml
 Java/Java8/*.mf
 Java/Java8/nbproject/private/
+
+Spring/Department-Service/nbproject/
+Spring/Department-Service/build/
+Spring/Department-Service/test/
+Spring/Department-Service/dist/
+Spring/Department-Service/*.cmd
+Spring/Department-Service/*.md
+Spring/Department-Service/nbproject/private/
+Spring/Department-Service/mvnw
