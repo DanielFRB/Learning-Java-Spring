@@ -20,11 +20,11 @@ Java/Java8/*.xml
 Java/Java8/*.mf
 Java/Java8/nbproject/private/
 
-Spring/Department-Service/nbproject/
-Spring/Department-Service/build/
-Spring/Department-Service/test/
-Spring/Department-Service/dist/
-Spring/Department-Service/*.cmd
-Spring/Department-Service/*.md
-Spring/Department-Service/nbproject/private/
-Spring/Department-Service/mvnw
+Spring/Microservices/RestTemplate/Department-Service/nbproject/
+Spring/Microservices/RestTemplate/Department-Service/build/
+Spring/Microservices/RestTemplate/Department-Service/test/
+Spring/Microservices/RestTemplate/Department-Service/dist/
+Spring/Microservices/RestTemplate/Department-Service/*.cmd
+Spring/Microservices/RestTemplate/Department-Service/*.md
+Spring/Microservices/RestTemplate/Department-Service/nbproject/private/
+Spring/Microservices/RestTemplate/Department-Service/mvnw
