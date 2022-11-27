@@ -5,6 +5,7 @@ import com.department.service.app.repository.DepartmentRepository;
 import com.department.service.app.service.DepartmentServiceInter;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
@@ -15,6 +16,7 @@ import org.springframework.stereotype.Service;
 @AllArgsConstructor
 @Slf4j
 public class DepartmentServiceImpl implements DepartmentServiceInter {
+    @Autowired
     private DepartmentRepository departmentRepository;
 
     @Override
