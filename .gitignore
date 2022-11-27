@@ -20,12 +20,12 @@
 /Java/Java8/*.mf
 /Java/Java8/nbproject/private/
 
-/Spring/Microservices/RestTemplate/Department-Service/nbproject/
-/Spring/Microservices/RestTemplate/Department-Service/build/
-/Spring/Microservices/RestTemplate/Department-Service/test/
-/Spring/Microservices/RestTemplate/Department-Service/dist/
-/Spring/Microservices/RestTemplate/Department-Service/*.cmd
-/Spring/Microservices/RestTemplate/Department-Service/*.md
-/Spring/Microservices/RestTemplate/Department-Service/nbproject/private/
-/Spring/Microservices/RestTemplate/Department-Service/mvnw
-/Spring/Microservices/RestTemplate/Department-Service/target/
+/Spring/Microservices/RestTemplate/DepartmentService/nbproject/
+/Spring/Microservices/RestTemplate/DepartmentService/build/
+/Spring/Microservices/RestTemplate/DepartmentService/test/
+/Spring/Microservices/RestTemplate/DepartmentService/dist/
+/Spring/Microservices/RestTemplate/DepartmentService/*.cmd
+/Spring/Microservices/RestTemplate/DepartmentService/*.md
+/Spring/Microservices/RestTemplate/DepartmentService/nbproject/private/
+/Spring/Microservices/RestTemplate/DepartmentService/mvnw
+/Spring/Microservices/RestTemplate/DepartmentService/target/
