@@ -18,7 +18,6 @@
 /Java/Java8/test/
 /Java/Java8/*.xml
 /Java/Java8/*.mf
-/Java/Java8/nbproject/private/
 
 /Spring/Microservices/RestTemplate/DepartmentService/nbproject/
 /Spring/Microservices/RestTemplate/DepartmentService/build/
@@ -26,7 +25,6 @@
 /Spring/Microservices/RestTemplate/DepartmentService/dist/
 /Spring/Microservices/RestTemplate/DepartmentService/*.cmd
 /Spring/Microservices/RestTemplate/DepartmentService/*.md
-/Spring/Microservices/RestTemplate/DepartmentService/nbproject/private/
 /Spring/Microservices/RestTemplate/DepartmentService/mvnw
 /Spring/Microservices/RestTemplate/DepartmentService/target/
 
@@ -36,7 +34,6 @@
 /Spring/Microservices/RestTemplate/UserService/dist/
 /Spring/Microservices/RestTemplate/UserService/*.cmd
 /Spring/Microservices/RestTemplate/UserService/*.md
-/Spring/Microservices/RestTemplate/UserService/nbproject/private/
 /Spring/Microservices/RestTemplate/UserService/mvnw
 /Spring/Microservices/RestTemplate/UserService/target/
 
@@ -46,7 +43,6 @@
 /Spring/Microservices/WebClient/DepartmentService/dist/
 /Spring/Microservices/WebClient/DepartmentService/*.cmd
 /Spring/Microservices/WebClient/DepartmentService/*.md
-/Spring/Microservices/WebClient/DepartmentService/nbproject/private/
 /Spring/Microservices/WebClient/DepartmentService/mvnw
 /Spring/Microservices/WebClient/DepartmentService/target/
 
@@ -56,6 +52,16 @@
 /Spring/Microservices/WebClient/UserService/dist/
 /Spring/Microservices/WebClient/UserService/*.cmd
 /Spring/Microservices/WebClient/UserService/*.md
-/Spring/Microservices/WebClient/UserService/nbproject/private/
 /Spring/Microservices/WebClient/UserService/mvnw
 /Spring/Microservices/WebClient/UserService/target/
+
+/Spring/Microservices/Kafka/SpringbootKafka/nbproject/
+/Spring/Microservices/Kafka/SpringbootKafka/build/
+/Spring/Microservices/Kafka/SpringbootKafka/test/
+/Spring/Microservices/Kafka/SpringbootKafka/dist/
+/Spring/Microservices/Kafka/SpringbootKafka/*.cmd
+/Spring/Microservices/Kafka/SpringbootKafka/*.md
+/Spring/Microservices/Kafka/SpringbootKafka/mvnw
+/Spring/Microservices/Kafka/SpringbootKafka/target/
+
+
