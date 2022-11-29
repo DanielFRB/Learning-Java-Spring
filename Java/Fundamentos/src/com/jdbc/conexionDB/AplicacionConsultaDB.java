@@ -1,4 +1,4 @@
-package com.conexionDB;
+package com.jdbc.conexionDB;
 
 import java.awt.*;
 import java.awt.event.*;

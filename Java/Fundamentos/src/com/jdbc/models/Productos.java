@@ -1,4 +1,4 @@
-package com.models;
+package com.jdbc.models;
 
 /**
  * @author danfe

@@ -1,4 +1,4 @@
-package com.procAlmacenado;
+package com.jdbc.procAlmacenados;
 
 import java.sql.*;
 

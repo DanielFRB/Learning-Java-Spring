@@ -1,4 +1,4 @@
-package com.conexionDB;
+package com.jdbc.conexionDB;
 
 import java.sql.*;
 

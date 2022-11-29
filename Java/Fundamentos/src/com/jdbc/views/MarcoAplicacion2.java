@@ -1,6 +1,7 @@
-package com.views;
+package com.jdbc.views;
 
-import com.controllers.*;
+import com.jdbc.controllers.ControlCargaComboBox;
+import com.jdbc.controllers.ControlBotonConsultar;
 import java.awt.*;
 import javax.swing.*;
 

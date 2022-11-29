@@ -1,7 +1,7 @@
-package com.controllers;
+package com.jdbc.controllers;
 
-import com.models.*;
-import com.views.*;
+import com.jdbc.models.*;
+import com.jdbc.views.*;
 import java.awt.event.*;
 
 /**
