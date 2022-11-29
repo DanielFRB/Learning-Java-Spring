@@ -20,6 +20,7 @@
 /Java/Java8/*.mf
 
 /Spring/Microservices/RestTemplate/DepartmentService/nbproject/
+/Spring/Microservices/RestTemplate/DepartmentService/.mvn/
 /Spring/Microservices/RestTemplate/DepartmentService/build/
 /Spring/Microservices/RestTemplate/DepartmentService/test/
 /Spring/Microservices/RestTemplate/DepartmentService/dist/
@@ -29,6 +30,7 @@
 /Spring/Microservices/RestTemplate/DepartmentService/target/
 
 /Spring/Microservices/RestTemplate/UserService/nbproject/
+/Spring/Microservices/RestTemplate/UserService/.mvn/
 /Spring/Microservices/RestTemplate/UserService/build/
 /Spring/Microservices/RestTemplate/UserService/test/
 /Spring/Microservices/RestTemplate/UserService/dist/
@@ -38,6 +40,7 @@
 /Spring/Microservices/RestTemplate/UserService/target/
 
 /Spring/Microservices/WebClient/DepartmentService/nbproject/
+/Spring/Microservices/WebClient/DepartmentService/.mvn/
 /Spring/Microservices/WebClient/DepartmentService/build/
 /Spring/Microservices/WebClient/DepartmentService/test/
 /Spring/Microservices/WebClient/DepartmentService/dist/
@@ -47,6 +50,7 @@
 /Spring/Microservices/WebClient/DepartmentService/target/
 
 /Spring/Microservices/WebClient/UserService/nbproject/
+/Spring/Microservices/WebClient/UserService/.mvn/
 /Spring/Microservices/WebClient/UserService/build/
 /Spring/Microservices/WebClient/UserService/test/
 /Spring/Microservices/WebClient/UserService/dist/
@@ -56,6 +60,7 @@
 /Spring/Microservices/WebClient/UserService/target/
 
 /Spring/Microservices/Kafka/SpringbootKafka/nbproject/
+/Spring/Microservices/Kafka/SpringbootKafka/.mvn/
 /Spring/Microservices/Kafka/SpringbootKafka/build/
 /Spring/Microservices/Kafka/SpringbootKafka/test/
 /Spring/Microservices/Kafka/SpringbootKafka/dist/
