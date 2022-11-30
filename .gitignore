@@ -5,12 +5,12 @@
 /Java/Fundamentos/*.xml
 /Java/Fundamentos/*.mf
 
-/Java/DataBase-JDBC/nbproject/
-/Java/DataBase-JDBC/build/
-/Java/DataBase-JDBC/test/
-/Java/DataBase-JDBC/dist/
-/Java/DataBase-JDBC/*.xml
-/Java/DataBase-JDBC/*.mf
+/Java/DataStructures/nbproject/
+/Java/DataStructures/build/
+/Java/DataStructures/test/
+/Java/DataStructures/dist/
+/Java/DataStructures/*.xml
+/Java/DataStructures/*.mf
 
 /Java/Java8/nbproject/
 /Java/Java8/build/
