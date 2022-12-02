@@ -1,0 +1,4 @@
+com\dfrb\springboot\WikimediaChangesHandler.class
+com\dfrb\springboot\SpringBootProducerApplication.class
+com\dfrb\springboot\WikimediaChangesProducer.class
+com\dfrb\springboot\KafkaTopicConfiguration.class
