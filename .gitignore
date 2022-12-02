@@ -78,5 +78,7 @@
 /Spring/Kafka/Kafka-Wikimedia-Project/*.cmd
 /Spring/Kafka/Kafka-Wikimedia-Project/mvnw
 /Spring/Kafka/Kafka-Wikimedia-Project/target/
+/Spring/Kafka/Kafka-Wikimedia-Project/consumer-database/target/
+/Spring/Kafka/Kafka-Wikimedia-Project/producer-wikipedia/target/
 
 
