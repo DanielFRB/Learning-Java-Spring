@@ -59,13 +59,24 @@
 /Spring/Microservices/WebClient/UserService/mvnw
 /Spring/Microservices/WebClient/UserService/target/
 
-/Spring/Microservices/Kafka/SpringbootKafka/nbproject/
-/Spring/Microservices/Kafka/SpringbootKafka/.mvn/
-/Spring/Microservices/Kafka/SpringbootKafka/build/
-/Spring/Microservices/Kafka/SpringbootKafka/test/
-/Spring/Microservices/Kafka/SpringbootKafka/dist/
-/Spring/Microservices/Kafka/SpringbootKafka/*.cmd
-/Spring/Microservices/Kafka/SpringbootKafka/mvnw
-/Spring/Microservices/Kafka/SpringbootKafka/target/
+/Spring/Kafka/SpringbootKafka/nbproject/
+/Spring/Kafka/SpringbootKafka/.mvn/
+/Spring/Kafka/SpringbootKafka/.idea/
+/Spring/Kafka/SpringbootKafka/build/
+/Spring/Kafka/SpringbootKafka/test/
+/Spring/Kafka/SpringbootKafka/dist/
+/Spring/Kafka/SpringbootKafka/*.cmd
+/Spring/Kafka/SpringbootKafka/mvnw
+/Spring/Kafka/SpringbootKafka/target/
+
+/Spring/Kafka/Kafka-Wikimedia-Project/nbproject/
+/Spring/Kafka/Kafka-Wikimedia-Project/.mvn/
+/Spring/Kafka/Kafka-Wikimedia-Project/.idea/
+/Spring/Kafka/Kafka-Wikimedia-Project/build/
+/Spring/Kafka/Kafka-Wikimedia-Project/test/
+/Spring/Kafka/Kafka-Wikimedia-Project/dist/
+/Spring/Kafka/Kafka-Wikimedia-Project/*.cmd
+/Spring/Kafka/Kafka-Wikimedia-Project/mvnw
+/Spring/Kafka/Kafka-Wikimedia-Project/target/
 
 
