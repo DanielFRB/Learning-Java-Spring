@@ -1,6 +1,4 @@
-# Spring Boot Microservices
-
-Microservices Communication Example using WebClient.
+# Spring Boot Microservices Communication Example using WebClient.
 
 As of 5.0, the RestTemplate class is in maintenance mode and soon will be deprecated. 
 The Spring team recommended using org.springframework.web.reactive.client.WebClient 
