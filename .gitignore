@@ -122,6 +122,15 @@
 /Spring/Microservices/SpringCloudConfigServer/UserService/*.cmd
 /Spring/Microservices/SpringCloudConfigServer/UserService/mvnw
 /Spring/Microservices/SpringCloudConfigServer/UserService/target/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/nbproject/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/.mvn/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/.idea/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/build/
+/Spring/Microservices/SpringCloudConfigServer/Config-Servery/test/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/dist/
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/*.cmd
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/mvnw
+/Spring/Microservices/SpringCloudConfigServer/Config-Server/target/
 
 
 
