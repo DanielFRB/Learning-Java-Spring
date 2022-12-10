@@ -132,6 +132,28 @@
 /Spring/Microservices/SpringCloudConfigServer/Config-Server/mvnw
 /Spring/Microservices/SpringCloudConfigServer/Config-Server/target/
 
+/Spring/Microservices/KafkaEventDriven/.idea/
+/Spring/Microservices/KafkaEventDriven/Base-Domains/.mvn/
+/Spring/Microservices/KafkaEventDriven/Base-Domains/target/
+/Spring/Microservices/KafkaEventDriven/Base-Domains/mvnw
+/Spring/Microservices/KafkaEventDriven/Base-Domains/*.cmd
+/Spring/Microservices/KafkaEventDriven/Base-Domains/*.iml
+/Spring/Microservices/KafkaEventDriven/Email-Service/.mvn/
+/Spring/Microservices/KafkaEventDriven/Email-Service/target/
+/Spring/Microservices/KafkaEventDriven/Email-Service/mvnw
+/Spring/Microservices/KafkaEventDriven/Email-Service/*.cmd
+/Spring/Microservices/KafkaEventDriven/Email-Service/*.iml
+/Spring/Microservices/KafkaEventDriven/Order-Service/.mvn/
+/Spring/Microservices/KafkaEventDriven/Order-Service/target/
+/Spring/Microservices/KafkaEventDriven/Order-Service/mvnw
+/Spring/Microservices/KafkaEventDriven/Order-Service/*.cmd
+/Spring/Microservices/KafkaEventDriven/Order-Service/*.iml
+/Spring/Microservices/KafkaEventDriven/Stock-Service/.mvn/
+/Spring/Microservices/KafkaEventDriven/Stock-Service/target/
+/Spring/Microservices/KafkaEventDriven/Stock-Service/mvnw
+/Spring/Microservices/KafkaEventDriven/Stock-Service/*.cmd
+/Spring/Microservices/KafkaEventDriven/Stock-Service/*.iml
+
 
 
 /Spring/Kafka/SpringbootKafka/nbproject/
