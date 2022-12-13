@@ -1,26 +1,36 @@
 /Java/Fundamentos/nbproject/
+/Java/Fundamentos/.idea/
+/Java/Fundamentos/out
 /Java/Fundamentos/build/
 /Java/Fundamentos/dist/
 /Java/Fundamentos/test/
 /Java/Fundamentos/*.xml
 /Java/Fundamentos/*.mf
+/Java/Fundamentos/*.iml
 
 /Java/DataStructures/nbproject/
 /Java/DataStructures/build/
+/Java/DataStructures/.idea
+/Java/DataStructures/out
 /Java/DataStructures/test/
 /Java/DataStructures/dist/
 /Java/DataStructures/*.xml
 /Java/DataStructures/*.mf
+/Java/DataStructures/*.iml
 
 /Java/Java8/nbproject/
+/Java/Java8/.idea/
+/Java/Java8/out/
 /Java/Java8/build/
 /Java/Java8/dist/
 /Java/Java8/test/
 /Java/Java8/*.xml
 /Java/Java8/*.mf
+/Java/Java8/*.iml
 
 /Spring/Microservices/RestTemplate/DepartmentService/nbproject/
 /Spring/Microservices/RestTemplate/DepartmentService/.mvn/
+/Spring/Microservices/RestTemplate/DepartmentService/.idea/
 /Spring/Microservices/RestTemplate/DepartmentService/build/
 /Spring/Microservices/RestTemplate/DepartmentService/test/
 /Spring/Microservices/RestTemplate/DepartmentService/dist/
@@ -36,10 +46,12 @@
 /Spring/Microservices/RestTemplate/UserService/*.cmd
 /Spring/Microservices/RestTemplate/UserService/*.md
 /Spring/Microservices/RestTemplate/UserService/mvnw
+/Spring/Microservices/RestTemplate/DepartmentService/*.iml
 /Spring/Microservices/RestTemplate/UserService/target/
 
 /Spring/Microservices/WebClient/DepartmentService/nbproject/
 /Spring/Microservices/WebClient/DepartmentService/.mvn/
+/Spring/Microservices/WebClient/DepartmentService/.idea/
 /Spring/Microservices/WebClient/DepartmentService/build/
 /Spring/Microservices/WebClient/DepartmentService/test/
 /Spring/Microservices/WebClient/DepartmentService/dist/
@@ -55,6 +67,7 @@
 /Spring/Microservices/WebClient/UserService/*.cmd
 /Spring/Microservices/WebClient/UserService/*.md
 /Spring/Microservices/WebClient/UserService/mvnw
+/Spring/Microservices/WebClient/DepartmentService/*.iml
 /Spring/Microservices/WebClient/UserService/target/
 
 /Spring/Microservices/SpringCloudNetflixEureka/Service-Registry/nbproject/
