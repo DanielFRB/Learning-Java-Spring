@@ -167,6 +167,17 @@
 /Spring/Microservices/KafkaEventDriven/Stock-Service/*.cmd
 /Spring/Microservices/KafkaEventDriven/Stock-Service/*.iml
 
+/Spring/Security/Spring-Security/nbproject/
+/Spring/Security/Spring-Security/.mvn/
+/Spring/Security/Spring-Security/.idea/
+/Spring/Security/Spring-Security/build/
+/Spring/Security/Spring-Security/test/
+/Spring/Security/Spring-Security/dist/
+/Spring/Security/Spring-Security/*.cmd
+/Spring/Security/Spring-Security/*.iml
+/Spring/Security/Spring-Security/HELP.md
+/Spring/Security/Spring-Security/mvnw
+/Spring/Security/Spring-Security/target/
 
 
 /Spring/Kafka/SpringbootKafka/nbproject/
