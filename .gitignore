@@ -28,6 +28,31 @@
 /Java/Java8/*.mf
 /Java/Java8/*.iml
 
+/Spring/Fundamentos/.metadata/
+/Spring/Fundamentos/Servers/
+/Spring/Fundamentos/Spring_MVC_One/.settings
+/Spring/Fundamentos/Spring_MVC_One/build
+/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/lib/
+/Spring/Fundamentos/SpringProjectOne/.test/
+/Spring/Fundamentos/SpringProjectOne/build/
+/Spring/Fundamentos/SpringProjectOne/libs/
+/Spring/Fundamentos/SpringProjectOne/nbproject/
+/Spring/Fundamentos/SpringProjectOne/test/
+/Spring/Fundamentos/SpringProjectOne/*.classpath
+/Spring/Fundamentos/SpringProjectOne/*.project
+/Spring/Fundamentos/SpringProjectOne/*.xml
+/Spring/Fundamentos/SpringProjectOne/*.mf
+/Spring/Fundamentos/SpringWithAnotations/.test/
+/Spring/Fundamentos/SpringWithAnotations/build/
+/Spring/Fundamentos/SpringWithAnotations/libs/
+/Spring/Fundamentos/SpringWithAnotations/nbproject/
+/Spring/Fundamentos/SpringWithAnotations/test/
+/Spring/Fundamentos/SpringWithAnotations/*.classpath
+/Spring/Fundamentos/SpringWithAnotations/*.project
+/Spring/Fundamentos/SpringWithAnotations/*.xml
+/Spring/Fundamentos/SpringWithAnotations/*.mf
+
+
 /Spring/Microservices/RestTemplate/DepartmentService/nbproject/
 /Spring/Microservices/RestTemplate/DepartmentService/.mvn/
 /Spring/Microservices/RestTemplate/DepartmentService/.idea/
@@ -232,3 +257,7 @@
 /Spring/Kafka/Kafka-Wikimedia-Project/producer-wikipedia/target/
 
 
+/Spring/Fundamentos/SpringProjectOne/nbproject/private/
+/Spring/Fundamentos/SpringProjectOne/build/
+/Spring/Fundamentos/SpringWithAnotations/nbproject/private/
+/Spring/Fundamentos/SpringWithAnotations/build/
