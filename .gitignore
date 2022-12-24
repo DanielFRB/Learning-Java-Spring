@@ -34,12 +34,16 @@
 /Spring/Fundamentos/Spring_MVC_One/build
 /Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/
 /Spring/Fundamentos/Spring_MVC_One/.classpath
+/Spring/Fundamentos/Spring_MVC_Two/.settings
+/Spring/Fundamentos/Spring_MVC_Two/build
+/Spring/Fundamentos/Spring_MVC_Two/src/main/webapp/WEB-INF/libs/
+/Spring/Fundamentos/Spring_MVC_Two/*.classpath
 /Spring/Fundamentos/SpringProjectOne/.test/
 /Spring/Fundamentos/SpringProjectOne/build/
 /Spring/Fundamentos/SpringProjectOne/libs/
 /Spring/Fundamentos/SpringProjectOne/nbproject/
 /Spring/Fundamentos/SpringProjectOne/test/
-/Spring/Fundamentos/SpringProjectOne/.classpath
+/Spring/Fundamentos/SpringProjectOne/*.classpath
 /Spring/Fundamentos/SpringProjectOne/*.project
 /Spring/Fundamentos/SpringProjectOne/*.xml
 /Spring/Fundamentos/SpringProjectOne/*.mf
