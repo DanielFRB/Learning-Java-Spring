@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
 		<attributes>
 			<attribute name="owner.project.facets" value="jst.web"/>
@@ -13,5 +13,73 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aop-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-aspects-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-beans-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-indexer-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-context-support-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-core-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-core-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-core-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-expression-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-instrument-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jcl-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jdbc-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-jms-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-messaging-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-orm-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-oxm-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-r2dbc-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-test-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-test-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-test-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-tx-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-web-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-web-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-web-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webflux-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-webmvc-5.3.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Proyectos/Learning-Java-Spring/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/spring-websocket-5.3.9-sources.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
