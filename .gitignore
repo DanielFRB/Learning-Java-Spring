@@ -32,13 +32,14 @@
 /Spring/Fundamentos/Servers/
 /Spring/Fundamentos/Spring_MVC_One/.settings
 /Spring/Fundamentos/Spring_MVC_One/build
-/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/lib/
+/Spring/Fundamentos/Spring_MVC_One/src/main/webapp/WEB-INF/libs/
+/Spring/Fundamentos/Spring_MVC_One/.classpath
 /Spring/Fundamentos/SpringProjectOne/.test/
 /Spring/Fundamentos/SpringProjectOne/build/
 /Spring/Fundamentos/SpringProjectOne/libs/
 /Spring/Fundamentos/SpringProjectOne/nbproject/
 /Spring/Fundamentos/SpringProjectOne/test/
-/Spring/Fundamentos/SpringProjectOne/*.classpath
+/Spring/Fundamentos/SpringProjectOne/.classpath
 /Spring/Fundamentos/SpringProjectOne/*.project
 /Spring/Fundamentos/SpringProjectOne/*.xml
 /Spring/Fundamentos/SpringProjectOne/*.mf
