@@ -20,6 +20,8 @@
 /Java/FundamentosJSP/JSPPrimerosPasos/*.xml
 /Java/FundamentosJSP/JSPPrimerosPasos/*.mf
 /Java/FundamentosJSP/JSPPrimerosPasos/*.iml
+/Java/FundamentosJSP/JSPPrimerosPasos/WebContent/META-INF/
+/Java/FundamentosJSP/JSPPrimerosPasos/WebContent/WEB-INF/lib/
 
 /Java/DataStructures/nbproject/
 /Java/DataStructures/build/
