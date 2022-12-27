@@ -8,6 +8,19 @@
 /Java/Fundamentos/*.mf
 /Java/Fundamentos/*.iml
 
+/Java/FundamentosJSP/JSPPrimerosPasos/nbproject/
+/Java/FundamentosJSP/JSPPrimerosPasos/.idea/
+/Java/FundamentosJSP/JSPPrimerosPasos/.settings/
+/Java/FundamentosJSP/JSPPrimerosPasos/.classpath
+/Java/FundamentosJSP/JSPPrimerosPasos/.project
+/Java/FundamentosJSP/JSPPrimerosPasos/out
+/Java/FundamentosJSP/JSPPrimerosPasos/build/
+/Java/FundamentosJSP/JSPPrimerosPasos/dist/
+/Java/FundamentosJSP/JSPPrimerosPasos/test/
+/Java/FundamentosJSP/JSPPrimerosPasos/*.xml
+/Java/FundamentosJSP/JSPPrimerosPasos/*.mf
+/Java/FundamentosJSP/JSPPrimerosPasos/*.iml
+
 /Java/DataStructures/nbproject/
 /Java/DataStructures/build/
 /Java/DataStructures/.idea
