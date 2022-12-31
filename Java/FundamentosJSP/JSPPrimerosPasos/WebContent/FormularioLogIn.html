@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log In</title>
+    <style>
+        body {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            background-color: lightblue;
+            font-family: "lato", sans-serif;
+        }
+        .regisform {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form {
+            background-color: lavender;
+            width: 400px;
+            border-radius: 8px;
+            padding: 20px 40px;
+            box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+        }
+        .titulo {
+            font-size: 40px;
+            margin-bottom: 30px;
+            margin-top: 0px;
+            text-align: center;
+        }
+        .inputCont {
+            position: relative;
+            height: 45px;
+            width: 90%;
+            margin-bottom: 10px;
+        }
+        .input {
+            position: absolute;
+            top: 0px;
+            left: 110px;
+            height: 100%;
+            width: 70%;
+            border: 1px solid #9a9faa;
+            border-radius: 7px;
+            font-size: 16px;
+            padding: 0px 20px;
+            outline: none;
+            background: none;
+            z-index: 1;
+        }
+        ::placeholder {
+            color: #9a9faa;
+        }
+        .label {
+            position: absolute;
+            top: 15px;
+            left: 0px;
+            padding: 0 4px;
+            background-color: lavender;
+            color: black;
+            font-size: 16px;
+            transition: 0.5s;
+            z-index: 0;
+        }
+        .submitBtn {
+            display: block;
+            margin-left: auto;
+            padding: 15px 30px;
+            border: none;
+            background-color: purple;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 30px;
+        }
+        .submitBtn:hover {
+            background-color: #9867C5;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+    <div class="regisform">
+        <form action="LogIn.jsp" class="form" method="post">
+            <h1 class="titulo">Please Log In</h1>
+            <div class="inputCont">
+                <label class="label">Usuario:</label>
+                <input type="text" class="input" name="usuario">
+            </div>
+            <div class="inputCont">
+                <label class="label">Contraseña:</label>
+                <input type="password" class="input" name="clave">
+            </div>
+            <input type="submit" class="submitBtn" value="Sign In">
+        </form>
+    </div>
+</body>
+</html>
